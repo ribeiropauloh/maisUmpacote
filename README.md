@@ -11,7 +11,9 @@ The goal of maisUmpacote is to understand how to create a project.
 You can install the development version of maisUmpacote like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+# HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+
+devtools::install_github("ribeiropauloh/maisUmpacote")
 ```
 
 ## Example
