@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of maisUmpacote is to ...
+The goal of maisUmpacote is to understand how to create a project.
 
 ## Installation
 
